@@ -1,0 +1,131 @@
+/* @media (max-width: 360px) */
+
+@media (max-width: 988px){
+    .stock .btn {
+        margin-top: 20px;
+        font-size: 34px;
+        padding: 3px 130px;
+        
+    }
+    iframe {
+        height: 450px;
+    }
+}
+
+@media (max-width: 768px){
+    .header .header__title h1 {
+        font-size: 40px;
+        
+    }
+    .stock .btn {
+        margin-top: 20px;
+        font-size: 34px;
+        padding: 3px 100px;
+        
+    }
+    iframe {
+        height: 350px;
+    }
+    .characteristics .characteristics__txt p {
+        font-size: 25px;
+        
+    }
+
+}
+
+@media (max-width: 480px){
+    .header .header__title h1 {
+        font-size: 36px;
+        
+    }
+    .stock .btn {
+        margin-top: 20px;
+        font-size: 34px;
+        padding: 3px 70px;
+        
+    }
+    iframe {
+        height: 250px;
+    }
+    .characteristics .characteristics__txt p {
+        font-size: 18px;
+        
+    }
+    .order__form .form__wrap .form_btn .btn {
+        padding: 3px 60px;
+    } 
+}
+
+
+@media (max-width: 360px){
+    .header .header__title h1 {
+        font-size: 25px;
+       
+    }
+    .stock__img {
+        margin-bottom: 50px;
+    }
+    .stock .stock__content-txt h2 {
+        display: none;
+        
+    }
+    .stock .btn {
+        margin-top: 20px;
+        font-size: 34px;
+        padding: 3px 70px;
+        
+    }
+
+    .stock__vidio {
+        margin: 20px 0;
+        
+      }
+      iframe {
+        height: 150px;
+    }
+    .characteristics .characteristics__txt p {
+        font-size: 15px;
+        
+    }
+    .characteristics .characteristics__img img.destop {
+        display: none;
+    }
+    .characteristics .characteristics__img img.mobile {
+        display: block;
+    }
+    .delivery h2 {
+        font-size: 30px;
+        
+    }
+    .delivery p {
+        font-size: 23px;
+        
+    }
+    .order__form .form-group {
+        font-size: 17px;
+    }
+    .order__form .footer__sub p {
+        line-height: 1;
+    }
+    
+    .order__form .form__wrap .form_btn .btn {
+        padding: 3px 50px;
+    }  
+
+    .thx h1 {
+        font-size: 25px;
+    }
+    .thx h2 {
+        font-size: 25px;
+        
+    }
+
+}
+
+
+  
+
+
+  
+  
+
